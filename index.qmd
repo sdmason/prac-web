@@ -1,11 +1,40 @@
 ---
-title: "prac-web"
+title: "Getting started"
 ---
 
-This is a Quarto website.
+Welcome the summer Data Science Practicum at Gordon College! This website provides information and resources related to the lecture portion of the practicum.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Syllabus
 
-```{r}
-1 + 1
-```
+### Learning outcomes
+
+At the end of the lecture portion of the practicum, students will be able to:
+
+1.  Identify all steps in the general data science workflow, and describe the utility of each step using examples.
+2.  Apply the six fundamental transformation verbs (used in the `{dplyr}` API) to perform wrangling tasks.
+3.  
+
+### Lecture schedule
+
+The lecture schedule for summer 2023. Morning sessions run from 9:00am to 12:00pm, and afternoon sessions from 1:00pm to 4:00pm
+
+| Date                | Session   | Topic                                    |
+|---------------------|-----------|------------------------------------------|
+| Tuesday, May 30th   | Morning   | Up and running with R and RStudio        |
+| Tuesday, May 30th   | Afternoon | Using functions to create generative art |
+| Wednesday, May 31st | Morning   | Basic data structures in R               |
+| Wednesday, May 31st | Afternoon | Tibbles and the tidyverse                |
+| Thursday, June 1st  | Morning   | The data science workflow                |
+| Thursday, June 1st  | Afternoon | First steps in exploratory plotting      |
+| Friday, June 2nd    | Morning   | Transforming rectangular data            |
+| Friday, June 2nd    | Afternoon | Case study: what makes a superhero?      |
+| Monday, June 5th    | Morning   |                                          |
+| Monday, June 5th    | Afternoon |                                          |
+| Tuesday, June 6th   | Morning   |                                          |
+| Tuesday, June 6th   | Afternoon |                                          |
+| Wednesday, June 7th | Morning   |                                          |
+| Wednesday, June 7th | Afternoon |                                          |
+| Thursday, June 8th  | Morning   |                                          |
+| Thursday, June 8th  |           |                                          |
+| Friday, June 9th    |           |                                          |
+| Friday, June 9th    |           |                                          |

@@ -1,0 +1,21 @@
+---
+title: "Lectures"
+---
+
+## Lecture 1: Up and running with R and RStudio  {#sec-lecture-1-up-and-running-with-r-and-rstudio-}
+
+```{=html}
+<iframe width="800" height="500" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
+```
+
+### Reading
+
+-   R for Data Science Chapter 4:
+
+### DataCamp
+
+### 
+
+## Lecture 2: Using functions to create generative art
+
+## Lecture 3: Basic data structures in R
