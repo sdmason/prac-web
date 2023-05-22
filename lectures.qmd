@@ -2,7 +2,7 @@
 title: "Lectures"
 ---
 
-## Lecture 1: Up and running with R and RStudio  {#sec-lecture-1-up-and-running-with-r-and-rstudio-}
+## Lecture 1: Up and running with R and RStudio 
 
 ```{=html}
 <iframe width="800" height="500" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
