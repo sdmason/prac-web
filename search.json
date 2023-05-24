@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "Welcome the summer Data Science Practicum at Gordon College! This website provides information and resources related to the lecture portion of the practicum."
+  },
+  {
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "Getting started",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nLearning outcomes\nAt the end of the lecture portion of the practicum, students will be able to:\n\nIdentify all steps in the general data science workflow, and describe the utility of each step using examples.\nApply the six fundamental transformation verbs (used in the {dplyr} API) to perform wrangling tasks.\n\n\n\n\nLecture schedule\nThe lecture schedule for summer 2023. Morning sessions run from 9:00am to 12:00pm, and afternoon sessions from 1:00pm to 4:00pm\n\n\n\n\n\n\n\n\nDate\nSession\nTopic\n\n\n\n\nTuesday, May 30th\nMorning\nUp and running with R and RStudio\n\n\nTuesday, May 30th\nAfternoon\nCreating generative art\n\n\nWednesday, May 31st\nMorning\nBasic data structures in R\n\n\nWednesday, May 31st\nAfternoon\nTibbles and the tidyverse\n\n\nThursday, June 1st\nMorning\nThe data science workflow\n\n\nThursday, June 1st\nAfternoon\nFirst steps in exploratory plotting\n\n\nFriday, June 2nd\nMorning\nTransforming rectangular data\n\n\nFriday, June 2nd\nAfternoon\nCase study: what makes a hero super?\n\n\nMonday, June 5th\nMorning\nData science with ChatGPT\n\n\nMonday, June 5th\nAfternoon\nWriting your own functions\n\n\nTuesday, June 6th\nMorning\nB.Y.O.D (bring your own data)\n\n\nTuesday, June 6th\nAfternoon\nCommon cleaning tasks\n\n\nWednesday, June 7th\nMorning\nTidy data and reshaping\n\n\nWednesday, June 7th\nAfternoon\nUsing iteration for automation\n\n\nThursday, June 8th\nMorning\nBasic functional programming\n\n\nThursday, June 8th\nAfternoon\nThe grammar of graphics\n\n\nFriday, June 9th\nMorning\nPlots that speak clearly\n\n\nFriday, June 9th\nAfternoon\nCase study:\n\n\nMonday, June 12th\nMorning\nWorking with dates and times\n\n\nMonday, June 12th\nAfternoon\nCase study:\n\n\nTuesday, June 13th\nMorning\nWorking with strings\n\n\nTuesday, June 13th\nAfternoon\nCase study:\n\n\nWednesday, June 14th\nMorning\nWorking with spatial data\n\n\nWednesday, June 14th\nAfternoon\nCase study: mapping UFO sightings\n\n\nThursday, June 15th\nMorning\n\n\n\nThursday, June 15th\nAfternoon\n\n\n\nFriday, June 16th\nMorning\n\n\n\nFriday, June 16th\nAfternoon"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "R for Data Science Chapter 4:"
+  },
+  {
+    "objectID": "lectures.html#lecture-2-using-functions-to-create-generative-art",
+    "href": "lectures.html#lecture-2-using-functions-to-create-generative-art",
+    "title": "Lectures",
+    "section": "Lecture 2: Using functions to create generative art",
+    "text": "Lecture 2: Using functions to create generative art"
+  },
+  {
+    "objectID": "lectures.html#lecture-3-basic-data-structures-in-r",
+    "href": "lectures.html#lecture-3-basic-data-structures-in-r",
+    "title": "Lectures",
+    "section": "Lecture 3: Basic data structures in R",
+    "text": "Lecture 3: Basic data structures in R"
+  }
+]
