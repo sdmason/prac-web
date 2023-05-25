@@ -55,5 +55,3 @@ The practicum doesn't begin until Tuesday, May 30th, but there are some things I
     ![](_images/install-rstudio-3.png)
 
 4.  On Windows machines, I believe your browser will download a .exe file that you can run to install RStudio Desktop. In macOS, a .dmg file is sent to your Downloads folder. You must double-click this file, and drag the RStudio icon into your Applications folder. Next, locate the RStudio disk image icon that has appeared on your Desktop and drag it to Trash to eject. Once the ritual is complete, you're safe to delete the .dmg file from your Downloads folder.
-
-### Joining DataCamp
