@@ -4,4 +4,56 @@ title: "Getting started"
 
 [![](_images/horst_tidyverse.jpg){fig-alt="click the image to be sent to Allison Horst's personal website"}](https://allisonhorst.com)
 
-Welcome the summer Data Science Practicum at Gordon College! This website provides information and resources related to the lecture portion of the practicum, and should serve as a useful reference during team project work. Two cool things up front: (1) the awesome artwork above was created by [\@allison_horst](https://twitter.com/allison_horst), and (2) this entire website was written in RStudio using Quarto -- a powerful and flexible scientific publishing system that we'll learn to document and present our work.
+Welcome the summer Data Science Practicum at Gordon College! This website provides information and resources related to the lecture portion of the practicum, and should serve as a useful reference during team project work. Two cool things up front: (1) the awesome artwork above was created by [\@allison_horst](https://twitter.com/allison_horst), and (2) this entire website was written in RStudio using Quarto -- a powerful and flexible scientific publishing system that we'll learn to help document and present our work.
+
+## Orientation tasks
+
+The practicum doesn't begin until Tuesday, May 30th, but there are some things I'd like you to accomplish prior to our first meeting so that we can hit the ground running!
+
+1.  Download and install R v4.3.0 on your personal laptop.
+
+2.  Download and install RStudio v2023.03.1+446 on your personal laptop.
+
+3.  Join our DataCamp classroom (see relevant email).
+
+4.  Read the [first chapter](https://r4ds.had.co.nz/introduction.html) of our textbook, [R for Data Science](https://r4ds.had.co.nz/index.html) by [Hadley Wickham](https://hadley.nz) and [Garrett Grolemund](https://www.rstudio.com/authors/garrett-grolemund/).
+
+### Installing R
+
+1.  Head to <http://r-project.org> and click on "CRAN" under the **Download** section of the left-hand navigation panel.
+
+    ![](_images/install-r-1.png)
+
+2.  Click on 0-Cloud URL from the list of CRAN mirrors.
+
+    ![](_images/install-r-2.png)
+
+3.  Select the download link corresponding to your operating system.
+
+    ![](_images/install-r-3.png)
+
+4.  On Windows machines click on the "install R for the first time" hyperlink. In macOS, select the .pkg file that corresponds to your system hardware (M1/M2 vs. intel processor). If you're unsure go to  \> About This Mac and look at your processor specs.
+
+    ![](_images/install-r-4.png)
+
+5.  In both Windows and macOS, the software should be sent to your Downloads folder. Double-click the .exe (Windows) or .pkg (macOS) file to start the installation. Accept all defaults (i.e., don't fiddle with anything -- just be agreeable and keep clicking "Continue").
+
+    ![](_images/install-r-5.png)
+
+### Installing RStudio
+
+1.  Head to <http://posit.co> and click on the huge, blue "DOWNLOAD RSTUDIO" button.
+
+    ![](_images/install-rstudio-1.png)
+
+2.  Scroll down a bit until you see another (slightly smaller) "DOWNLOAD RSTUDIO" button and click it.
+
+    ![](_images/install-rstudio-2.png)
+
+3.  Scroll down a bit until you see yet *another* big, blue button, this time promising to download the desktop version of RStudio specific to your operating system. Click with determination and maybe they'll actually believe that we want the software this time.
+
+    ![](_images/install-rstudio-3.png)
+
+4.  On Windows machines, I believe your browser will download a .exe file that you can run to install RStudio Desktop. In macOS, a .dmg file is sent to your Downloads folder. You must double-click this file, and drag the RStudio icon into your Applications folder. Next, locate the RStudio disk image icon that has appeared on your Desktop and drag it to Trash to eject. Once the ritual is complete, you're safe to delete the .dmg file from your Downloads folder.
+
+### Joining DataCamp
