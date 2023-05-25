@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sdmason.github.io/prac-web/index.html</loc>
-    <lastmod>2023-05-24T18:35:40.215Z</lastmod>
+    <lastmod>2023-05-25T18:08:36.958Z</lastmod>
   </url>
   <url>
     <loc>https://sdmason.github.io/prac-web/about.html</loc>
-    <lastmod>2023-05-24T18:35:42.019Z</lastmod>
+    <lastmod>2023-05-25T18:08:38.593Z</lastmod>
   </url>
   <url>
     <loc>https://sdmason.github.io/prac-web/lectures.html</loc>
-    <lastmod>2023-05-24T18:35:42.330Z</lastmod>
+    <lastmod>2023-05-25T18:08:38.945Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sdmason.github.io/prac-web/syllabus.html</loc>
+    <lastmod>2023-05-25T18:08:39.323Z</lastmod>
   </url>
 </urlset>

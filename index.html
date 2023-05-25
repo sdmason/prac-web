@@ -35,10 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -84,10 +86,17 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./syllabus.html">
+ <span class="menu-text">Syllabus</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./lectures.html">
  <span class="menu-text">Lectures</span></a>
   </li>  
 </ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -102,10 +111,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#syllabus" id="toc-syllabus" class="nav-link active" data-scroll-target="#syllabus">Syllabus</a>
+  <li><a href="#orientation-tasks" id="toc-orientation-tasks" class="nav-link active" data-scroll-target="#orientation-tasks">Orientation tasks</a>
   <ul class="collapse">
-  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning outcomes</a></li>
-  <li><a href="#lecture-schedule" id="toc-lecture-schedule" class="nav-link" data-scroll-target="#lecture-schedule">Lecture schedule</a></li>
+  <li><a href="#installing-r" id="toc-installing-r" class="nav-link" data-scroll-target="#installing-r">Installing R</a></li>
+  <li><a href="#installing-rstudio" id="toc-installing-rstudio" class="nav-link" data-scroll-target="#installing-rstudio">Installing RStudio</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -130,177 +139,47 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Welcome the summer Data Science Practicum at Gordon College! This website provides information and resources related to the lecture portion of the practicum.</p>
-<section id="syllabus" class="level2">
-<h2 class="anchored" data-anchor-id="syllabus">Syllabus</h2>
-<section id="learning-outcomes" class="level3">
-<h3 class="anchored" data-anchor-id="learning-outcomes">Learning outcomes</h3>
-<p>At the end of the lecture portion of the practicum, students will be able to:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://allisonhorst.com"><img src="_images/horst_tidyverse.jpg" class="img-fluid figure-img" alt="click the image to be sent to Allison Horst's personal website"></a></p>
+</figure>
+</div>
+<p>Welcome the summer Data Science Practicum at Gordon College! This website provides information and resources related to the lecture portion of the practicum, and should serve as a useful reference during team project work. Two cool things up front: (1) the awesome artwork above was created by <a href="https://twitter.com/allison_horst">@allison_horst</a>, and (2) this entire website was written in RStudio using Quarto – a powerful and flexible scientific publishing system that we’ll learn to help document and present our work.</p>
+<section id="orientation-tasks" class="level2">
+<h2 class="anchored" data-anchor-id="orientation-tasks">Orientation tasks</h2>
+<p>The practicum doesn’t begin until Tuesday, May 30th, but there are some things I’d like you to accomplish prior to our first meeting so that we can hit the ground running!</p>
 <ol type="1">
-<li>Identify all steps in the general data science workflow, and describe the utility of each step using examples.</li>
-<li>Apply the six fundamental transformation verbs (used in the <code>{dplyr}</code> API) to perform wrangling tasks.</li>
-<li></li>
+<li><p>Download and install R v4.3.0 on your personal laptop.</p></li>
+<li><p>Download and install RStudio v2023.03.1+446 on your personal laptop.</p></li>
+<li><p>Join our DataCamp classroom (see relevant email).</p></li>
+<li><p>Read the <a href="https://r4ds.had.co.nz/introduction.html">first chapter</a> of our textbook, <a href="https://r4ds.had.co.nz/index.html">R for Data Science</a> by <a href="https://hadley.nz">Hadley Wickham</a> and <a href="https://www.rstudio.com/authors/garrett-grolemund/">Garrett Grolemund</a>.</p></li>
+</ol>
+<section id="installing-r" class="level3">
+<h3 class="anchored" data-anchor-id="installing-r">Installing R</h3>
+<ol type="1">
+<li><p>Head to <a href="http://r-project.org" class="uri">http://r-project.org</a> and click on “CRAN” under the <strong>Download</strong> section of the left-hand navigation panel.</p>
+<p><img src="_images/install-r-1.png" class="img-fluid"></p></li>
+<li><p>Click on 0-Cloud URL from the list of CRAN mirrors.</p>
+<p><img src="_images/install-r-2.png" class="img-fluid"></p></li>
+<li><p>Select the download link corresponding to your operating system.</p>
+<p><img src="_images/install-r-3.png" class="img-fluid"></p></li>
+<li><p>On Windows machines click on the “install R for the first time” hyperlink. In macOS, select the .pkg file that corresponds to your system hardware (M1/M2 vs.&nbsp;intel processor). If you’re unsure go to  &gt; About This Mac and look at your processor specs.</p>
+<p><img src="_images/install-r-4.png" class="img-fluid"></p></li>
+<li><p>In both Windows and macOS, the software should be sent to your Downloads folder. Double-click the .exe (Windows) or .pkg (macOS) file to start the installation. Accept all defaults (i.e., don’t fiddle with anything – just be agreeable and keep clicking “Continue”).</p>
+<p><img src="_images/install-r-5.png" class="img-fluid"></p></li>
 </ol>
 </section>
-<section id="lecture-schedule" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-schedule">Lecture schedule</h3>
-<p>The lecture schedule for summer 2023. Morning sessions run from 9:00am to 12:00pm, and afternoon sessions from 1:00pm to 4:00pm</p>
-<table class="table">
-<colgroup>
-<col style="width: 30%">
-<col style="width: 15%">
-<col style="width: 53%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Session</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tuesday, May 30th</td>
-<td>Morning</td>
-<td>Up and running with R and RStudio</td>
-</tr>
-<tr class="even">
-<td>Tuesday, May 30th</td>
-<td>Afternoon</td>
-<td>Creating generative art</td>
-</tr>
-<tr class="odd">
-<td>Wednesday, May 31st</td>
-<td>Morning</td>
-<td>Basic data structures in R</td>
-</tr>
-<tr class="even">
-<td>Wednesday, May 31st</td>
-<td>Afternoon</td>
-<td>Tibbles and the tidyverse</td>
-</tr>
-<tr class="odd">
-<td>Thursday, June 1st</td>
-<td>Morning</td>
-<td>The data science workflow</td>
-</tr>
-<tr class="even">
-<td>Thursday, June 1st</td>
-<td>Afternoon</td>
-<td>First steps in exploratory plotting</td>
-</tr>
-<tr class="odd">
-<td>Friday, June 2nd</td>
-<td>Morning</td>
-<td>Transforming rectangular data</td>
-</tr>
-<tr class="even">
-<td>Friday, June 2nd</td>
-<td>Afternoon</td>
-<td>Case study: what makes a hero super?</td>
-</tr>
-<tr class="odd">
-<td>Monday, June 5th</td>
-<td>Morning</td>
-<td>Data science with ChatGPT</td>
-</tr>
-<tr class="even">
-<td>Monday, June 5th</td>
-<td>Afternoon</td>
-<td>Writing your own functions</td>
-</tr>
-<tr class="odd">
-<td>Tuesday, June 6th</td>
-<td>Morning</td>
-<td>B.Y.O.D (bring your own data)</td>
-</tr>
-<tr class="even">
-<td>Tuesday, June 6th</td>
-<td>Afternoon</td>
-<td>Common cleaning tasks</td>
-</tr>
-<tr class="odd">
-<td>Wednesday, June 7th</td>
-<td>Morning</td>
-<td>Tidy data and reshaping</td>
-</tr>
-<tr class="even">
-<td>Wednesday, June 7th</td>
-<td>Afternoon</td>
-<td>Using iteration for automation</td>
-</tr>
-<tr class="odd">
-<td>Thursday, June 8th</td>
-<td>Morning</td>
-<td>Basic functional programming</td>
-</tr>
-<tr class="even">
-<td>Thursday, June 8th</td>
-<td>Afternoon</td>
-<td>The grammar of graphics</td>
-</tr>
-<tr class="odd">
-<td>Friday, June 9th</td>
-<td>Morning</td>
-<td>Plots that speak clearly</td>
-</tr>
-<tr class="even">
-<td>Friday, June 9th</td>
-<td>Afternoon</td>
-<td>Case study:</td>
-</tr>
-<tr class="odd">
-<td>Monday, June 12th</td>
-<td>Morning</td>
-<td>Working with dates and times</td>
-</tr>
-<tr class="even">
-<td>Monday, June 12th</td>
-<td>Afternoon</td>
-<td>Case study:</td>
-</tr>
-<tr class="odd">
-<td>Tuesday, June 13th</td>
-<td>Morning</td>
-<td>Working with strings</td>
-</tr>
-<tr class="even">
-<td>Tuesday, June 13th</td>
-<td>Afternoon</td>
-<td>Case study:</td>
-</tr>
-<tr class="odd">
-<td>Wednesday, June 14th</td>
-<td>Morning</td>
-<td>Working with spatial data</td>
-</tr>
-<tr class="even">
-<td>Wednesday, June 14th</td>
-<td>Afternoon</td>
-<td>Case study: mapping UFO sightings</td>
-</tr>
-<tr class="odd">
-<td>Thursday, June 15th</td>
-<td>Morning</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Thursday, June 15th</td>
-<td>Afternoon</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Friday, June 16th</td>
-<td>Morning</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Friday, June 16th</td>
-<td>Afternoon</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="installing-rstudio" class="level3">
+<h3 class="anchored" data-anchor-id="installing-rstudio">Installing RStudio</h3>
+<ol type="1">
+<li><p>Head to <a href="http://posit.co" class="uri">http://posit.co</a> and click on the huge, blue “DOWNLOAD RSTUDIO” button.</p>
+<p><img src="_images/install-rstudio-1.png" class="img-fluid"></p></li>
+<li><p>Scroll down a bit until you see another (slightly smaller) “DOWNLOAD RSTUDIO” button and click it.</p>
+<p><img src="_images/install-rstudio-2.png" class="img-fluid"></p></li>
+<li><p>Scroll down a bit until you see yet <em>another</em> big, blue button, this time promising to download the desktop version of RStudio specific to your operating system. Click with determination and maybe they’ll actually believe that we want the software this time.</p>
+<p><img src="_images/install-rstudio-3.png" class="img-fluid"></p></li>
+<li><p>On Windows machines, I believe your browser will download a .exe file that you can run to install RStudio Desktop. In macOS, a .dmg file is sent to your Downloads folder. You must double-click this file, and drag the RStudio icon into your Applications folder. Next, locate the RStudio disk image icon that has appeared on your Desktop and drag it to Trash to eject. Once the ritual is complete, you’re safe to delete the .dmg file from your Downloads folder.</p></li>
+</ol>
 
 
 </section>
@@ -327,6 +206,121 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
