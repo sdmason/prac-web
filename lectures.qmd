@@ -25,7 +25,7 @@ All lectures are available at <http://mason.quarto.pub>. Lecture titles are hype
 ## Lecture 2: Using functions to create generative art
 
 ```{=html}
-<iframe class="slide-deck" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
+<iframe class="slide-deck" src="https://mason.quarto.pub/using-functions-to-create-generative-art/" title="Using functions to create generative art"></iframe>
 ```
 
 ## Lecture 3: Basic data structures in R
