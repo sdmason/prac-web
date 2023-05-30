@@ -1,21 +1,37 @@
 ---
 title: "Lectures"
+slide-format: revealjs
 ---
 
-## Lecture 1: Up and running with R and RStudio 
+::: callout-note
+All lectures are available at <http://mason.quarto.pub>. Lecture titles are hyperlinks to the original slides with a fullscreen viewing option.
+:::
+
+## Lecture 1: [Up and running with R and RStudio](https://mason.quarto.pub/up-and-running-with-r-and-rstudio/#/title-slide)
 
 ```{=html}
-<iframe width="800" height="500" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
+<iframe class="slide-deck" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
 ```
+::: {.callout-important title="Reading Assignment" icon="false" collapse="true" appearance="simple"}
+-   [R for Data Science Chapter 4 - Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html)
+-   [R for Data Science Chapter 6 - Workflow: scripts](https://r4ds.had.co.nz/workflow-scripts.html)
+:::
 
-### Reading
-
--   R for Data Science Chapter 4:
-
-### DataCamp
-
-### 
+::: {.callout-tip title="DataCamp Assignment" icon="false" collapse="true" appearance="simple"}
+-   Introduction to R: Intro to basics
+-   Introduction to R: Vectors
+:::
 
 ## Lecture 2: Using functions to create generative art
 
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
+```
+
 ## Lecture 3: Basic data structures in R
+
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/up-and-running-with-r-and-rstudio/" title="Up and running with R and Studio"></iframe>
+```
+
+## Lecture 4: Tibbles and the tidyverse

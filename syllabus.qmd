@@ -2,6 +2,10 @@
 title: "Syllabus"
 ---
 
+::: callout-warning
+This page is still being developed as of May 30th, 2023. The information presented here may not reflect the final content of the practicum.
+:::
+
 ## Learning outcomes
 
 At the end of the lecture portion of the practicum, students will be able to:
