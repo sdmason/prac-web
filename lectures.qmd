@@ -32,7 +32,6 @@ All lectures are available at <http://mason.quarto.pub>. Lecture titles are hype
 ```{=html}
 <iframe class="slide-deck" src="https://mason.quarto.pub/basic-data-structures-in-r/" title="Basic data structures in R"></iframe>
 ```
-
 ::: {.callout-tip title="DataCamp Assignment" icon="false" collapse="true" appearance="simple"}
 -   Introduction to R: Matrices
 -   Introduction to R: Factors
@@ -40,4 +39,11 @@ All lectures are available at <http://mason.quarto.pub>. Lecture titles are hype
 -   Introduction to R: Lists
 :::
 
-## Lecture 4: Tibbles and the tidyverse
+## Lecture 4: [Tibbles and the tidyverse](https://mason.quarto.pub/tibbles-and-the-tidyverse/)
+
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/tibbles-and-the-tidyverse/" title="Basic data structures in R"></iframe>
+```
+::: {.callout-important title="Reading Assignment" icon="false" collapse="true" appearance="simple"}
+-   [R for Data Science Chapter 10 - Tibbles](https://r4ds.had.co.nz/tibbles.html)
+:::
