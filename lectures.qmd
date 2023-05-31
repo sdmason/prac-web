@@ -32,4 +32,12 @@ All lectures are available at <http://mason.quarto.pub>. Lecture titles are hype
 ```{=html}
 <iframe class="slide-deck" src="https://mason.quarto.pub/basic-data-structures-in-r/" title="Basic data structures in R"></iframe>
 ```
+
+::: {.callout-tip title="DataCamp Assignment" icon="false" collapse="true" appearance="simple"}
+-   Introduction to R: Matrices
+-   Introduction to R: Factors
+-   Introduction to R: Data frames
+-   Introduction to R: Lists
+:::
+
 ## Lecture 4: Tibbles and the tidyverse
