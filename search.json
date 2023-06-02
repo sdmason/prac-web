@@ -91,6 +91,27 @@
     "text": "Lecture 4: Tibbles and the tidyverse\n\n\n\n\n\n\n\nReading Assignment\n\n\n\n\n\n\nR for Data Science Chapter 10 - Tibbles"
   },
   {
+    "objectID": "lectures.html#lecture-5-the-data-science-workflow",
+    "href": "lectures.html#lecture-5-the-data-science-workflow",
+    "title": "Lectures",
+    "section": "Lecture 5: The data science workflow",
+    "text": "Lecture 5: The data science workflow"
+  },
+  {
+    "objectID": "lectures.html#lecture-6-first-steps-in-exploratory-plotting",
+    "href": "lectures.html#lecture-6-first-steps-in-exploratory-plotting",
+    "title": "Lectures",
+    "section": "Lecture 6: First steps in exploratory plotting",
+    "text": "Lecture 6: First steps in exploratory plotting\n\n\n\n\n\n\n\nReading Assignment\n\n\n\n\n\n\nR for Data Science Chapter 3 - Introduction\nR for Data Science Chapter 3 - First steps\nR for Data Science Chapter 3 - Aesthetic mappings\nR for Data Science Chapter 3 - Common problems\nR for Data Science Chapter 3 - Geometric objects\n\n\n\n\n\n\n\n\n\n\nDataCamp Assignment\n\n\n\n\n\n\nIntroduction to data visualization with ggplot2: Introduction\nIntroduction to data visualization with ggplot2: Aesthetics\nIntroduction to data visualization with ggplot2: Geometries"
+  },
+  {
+    "objectID": "lectures.html#lecture-7-transforming-rectangular-data",
+    "href": "lectures.html#lecture-7-transforming-rectangular-data",
+    "title": "Lectures",
+    "section": "Lecture 7: Transforming rectangular data",
+    "text": "Lecture 7: Transforming rectangular data"
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
