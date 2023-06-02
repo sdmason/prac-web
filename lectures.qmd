@@ -47,3 +47,30 @@ All lectures are available at <http://mason.quarto.pub>. Lecture titles are hype
 ::: {.callout-important title="Reading Assignment" icon="false" collapse="true" appearance="simple"}
 -   [R for Data Science Chapter 10 - Tibbles](https://r4ds.had.co.nz/tibbles.html)
 :::
+
+## Lecture 5: The data science workflow
+
+## Lecture 6: [First steps in exploratory plotting](https://mason.quarto.pub/first-steps-in-exploratory-plotting/)
+
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/first-steps-in-exploratory-plotting/" title="First steps in exploratory plotting"></iframe>
+```
+::: {.callout-important title="Reading Assignment" icon="false" collapse="true" appearance="simple"}
+-   [R for Data Science Chapter 3 - Introduction](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
+-   [R for Data Science Chapter 3 - First steps](https://r4ds.had.co.nz/data-visualisation.html#first-steps)
+-   [R for Data Science Chapter 3 - Aesthetic mappings](https://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings)
+-   [R for Data Science Chapter 3 - Common problems](https://r4ds.had.co.nz/data-visualisation.html#common-problems)
+-   [R for Data Science Chapter 3 - Geometric objects](https://r4ds.had.co.nz/data-visualisation.html#geometric-objects)
+:::
+
+::: {.callout-tip title="DataCamp Assignment" icon="false" collapse="true" appearance="simple"}
+-   Introduction to data visualization with ggplot2: Introduction
+-   Introduction to data visualization with ggplot2: Aesthetics
+-   Introduction to data visualization with ggplot2: Geometries
+:::
+
+## Lecture 7: [Transforming rectangular data](https://mason.quarto.pub/transforming-rectangular-data/)
+
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/transforming-rectangular-data/" title="Transforming rectangular data"></iframe>
+```
