@@ -74,3 +74,44 @@ All lectures are available at <http://mason.quarto.pub>. Lecture titles are hype
 ```{=html}
 <iframe class="slide-deck" src="https://mason.quarto.pub/transforming-rectangular-data/" title="Transforming rectangular data"></iframe>
 ```
+::: {.callout-important title="Reading Assignment" icon="false" collapse="true" appearance="simple"}
+-   [R for Data Science Chapter 5 - Introduction](https://r4ds.had.co.nz/transform.html#introduction-2)
+-   [R for Data Science Chapter 5 - Filter](https://r4ds.had.co.nz/transform.html#filter-rows-with-filter)
+-   [R for Data Science Chapter 5 - Arrange](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)
+-   [R for Data Science Chapter 5 - Select](https://r4ds.had.co.nz/transform.html#select)
+-   [R for Data Science Chapter 5 - Mutate](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
+-   [R for Data Science Chapter 5 - Grouped summaries](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise)
+:::
+
+::: {.callout-tip title="DataCamp Assignment" icon="false" collapse="true" appearance="simple"}
+-   Data manipulation with dplyr: transforming data with dplyr
+-   Data manipulation with dplyr: aggregating data
+-   Data manipulation with dplyr: selecting and transforming data
+-   Data manipulation with dplyr: case study: the babynames dataset
+:::
+
+## Lecture 8: [Writing your own functions](https://mason.quarto.pub/writing-your-own-functions/)
+
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/writing-your-own-functions/" title="Writing your own functions"></iframe>
+```
+
+::: {.callout-important title="Reading Assignment" icon="false" collapse="true" appearance="simple"}
+-   [R for Data Science Chapter 19 - Introduction](https://r4ds.had.co.nz/functions.html#introduction-12)
+-   [R for Data Science Chapter 19 - When to write functions](https://r4ds.had.co.nz/functions.html#when-should-you-write-a-function)
+-   [R for Data Science Chapter 19 - Naming functions](https://r4ds.had.co.nz/functions.html#functions-are-for-humans-and-computers)
+-   [R for Data Science Chapter 19 - Conditional execution](https://r4ds.had.co.nz/functions.html#conditional-execution)
+-   [R for Data Science Chapter 19 - Naming arguments](https://r4ds.had.co.nz/functions.html#choosing-names)
+-   [R for Data Science Chapter 19 - Checking values](https://r4ds.had.co.nz/functions.html#checking-values)
+:::
+
+::: {.callout-tip title="DataCamp Assignment" icon="false" collapse="true" appearance="simple"}
+-   Intermediate R: conditionals and control flow
+-   Intermediate R: functions
+:::
+
+## Lecture 9: [B.Y.O.D. (bring your own data)](https://mason.quarto.pub/byod-(bring-your-own-data/)
+
+```{=html}
+<iframe class="slide-deck" src="https://mason.quarto.pub/byod-(bring-your-own-data/" title="B.Y.O.D. (bring your own data)"></iframe>
+```
