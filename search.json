@@ -109,7 +109,21 @@
     "href": "lectures.html#lecture-7-transforming-rectangular-data",
     "title": "Lectures",
     "section": "Lecture 7: Transforming rectangular data",
-    "text": "Lecture 7: Transforming rectangular data"
+    "text": "Lecture 7: Transforming rectangular data\n\n\n\n\n\n\n\nReading Assignment\n\n\n\n\n\n\nR for Data Science Chapter 5 - Introduction\nR for Data Science Chapter 5 - Filter\nR for Data Science Chapter 5 - Arrange\nR for Data Science Chapter 5 - Select\nR for Data Science Chapter 5 - Mutate\nR for Data Science Chapter 5 - Grouped summaries\n\n\n\n\n\n\n\n\n\n\nDataCamp Assignment\n\n\n\n\n\n\nData manipulation with dplyr: transforming data with dplyr\nData manipulation with dplyr: aggregating data\nData manipulation with dplyr: selecting and transforming data\nData manipulation with dplyr: case study: the babynames dataset"
+  },
+  {
+    "objectID": "lectures.html#lecture-8-writing-your-own-functions",
+    "href": "lectures.html#lecture-8-writing-your-own-functions",
+    "title": "Lectures",
+    "section": "Lecture 8: Writing your own functions",
+    "text": "Lecture 8: Writing your own functions\n\n\n\n\n\n\n\nReading Assignment\n\n\n\n\n\n\nR for Data Science Chapter 19 - Introduction\nR for Data Science Chapter 19 - When to write functions\nR for Data Science Chapter 19 - Naming functions\nR for Data Science Chapter 19 - Conditional execution\nR for Data Science Chapter 19 - Naming arguments\nR for Data Science Chapter 19 - Checking values\n\n\n\n\n\n\n\n\n\n\nDataCamp Assignment\n\n\n\n\n\n\nIntermediate R: conditionals and control flow\nIntermediate R: functions"
+  },
+  {
+    "objectID": "lectures.html#lecture-9-b.y.o.d.-bring-your-own-datahttpsmason.quarto.pubbyod-bring-your-own-data",
+    "href": "lectures.html#lecture-9-b.y.o.d.-bring-your-own-datahttpsmason.quarto.pubbyod-bring-your-own-data",
+    "title": "Lectures",
+    "section": "Lecture 9: [B.Y.O.D. (bring your own data)](https://mason.quarto.pub/byod-(bring-your-own-data/)",
+    "text": "Lecture 9: [B.Y.O.D. (bring your own data)](https://mason.quarto.pub/byod-(bring-your-own-data/)"
   },
   {
     "objectID": "syllabus.html",
